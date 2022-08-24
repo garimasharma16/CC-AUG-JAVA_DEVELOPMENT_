@@ -9,5 +9,25 @@ Electricity Billing System is a desktop based application developed in Java prog
 3.DATABASE<br>
 
 ## Screenshots
+Login
+<img width="643" alt="Screenshot" src="https://github.com/garimasharma16/CC-AUG-JAVA_DEVELOPMENT_-Task-2-/blob/main/src/icon/abc1.jpg">
+<br>
+<br>
+
+<img width="643" alt="Screenshot" src="https://github.com/garimasharma16/CC-AUG-JAVA_DEVELOPMENT_-Task-2-/blob/main/src/icon/abc1.jpg">
+<br>
+<br>
+
+<img width="643" alt="Screenshot" src="https://github.com/garimasharma16/CC-AUG-JAVA_DEVELOPMENT_-Task-2-/blob/main/src/icon/abc1.jpg">
+<br>
+<br>
+
+<img width="643" alt="Screenshot" src="https://github.com/garimasharma16/CC-AUG-JAVA_DEVELOPMENT_-Task-2-/blob/main/src/icon/abc1.jpg">
+<br>
+<br>
+
+<img width="643" alt="Screenshot" src="https://github.com/garimasharma16/CC-AUG-JAVA_DEVELOPMENT_-Task-2-/blob/main/src/icon/abc1.jpg">
+<br>
+<br>
 
 
