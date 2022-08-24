@@ -22,8 +22,8 @@ Bill Details-
 <img width="643" alt="Screenshot" src="https://github.com/garimasharma16/CC-AUG-JAVA_DEVELOPMENT_-Task-2-/blob/main/src/icon/abc3.png">
 <br>
 <br>
-
-<img width="643" alt="Screenshot" src="https://github.com/garimasharma16/CC-AUG-JAVA_DEVELOPMENT_-Task-2-/blob/main/src/icon/abc4.jpg">
+Meter Detail-
+<img width="643" alt="Screenshot" src="https://github.com/garimasharma16/CC-AUG-JAVA_DEVELOPMENT_-Task-2-/blob/main/src/icon/abc4.png">
 <br>
 <br>
 Payslip Calculation-
