@@ -14,19 +14,19 @@ Electricity Billing System is a desktop based application developed in Java prog
 <img width="643" alt="Screenshot" src="https://github.com/garimasharma16/CC-AUG-JAVA_DEVELOPMENT_-Task-2-/blob/main/src/icon/abc1.jpg">
 <br>
 <br>
-### Customer Information-
+Customer Information-
 <img width="643" alt="Screenshot" src="https://github.com/garimasharma16/CC-AUG-JAVA_DEVELOPMENT_-Task-2-/blob/main/src/icon/abc2.jpg">
 <br>
 <br>
-
-<img width="643" alt="Screenshot" src="https://github.com/garimasharma16/CC-AUG-JAVA_DEVELOPMENT_-Task-2-/blob/main/src/icon/abc3.jpg">
+Bill Details-
+<img width="643" alt="Screenshot" src="https://github.com/garimasharma16/CC-AUG-JAVA_DEVELOPMENT_-Task-2-/blob/main/src/icon/abc3.png">
 <br>
 <br>
 
 <img width="643" alt="Screenshot" src="https://github.com/garimasharma16/CC-AUG-JAVA_DEVELOPMENT_-Task-2-/blob/main/src/icon/abc4.jpg">
 <br>
 <br>
-### Payslip Calculation-
+Payslip Calculation-
 <img width="643" alt="Screenshot" src="https://github.com/garimasharma16/CC-AUG-JAVA_DEVELOPMENT_-Task-2-/blob/main/src/icon/abc5.jpg">
 <br>
 <br>
