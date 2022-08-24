@@ -9,25 +9,25 @@ Electricity Billing System is a desktop based application developed in Java prog
 3.DATABASE<br>
 
 ## Screenshots
-Login
-![](icon/github-abc1.jpg)
-<img width="643" alt="Screenshot" src="https://github.com/garimasharma16/CC-AUG-JAVA_DEVELOPMENT_-Task-2-/blob/main/src/icon/abc1.jpg">
-<br>
-<br>
+### Login-
 
 <img width="643" alt="Screenshot" src="https://github.com/garimasharma16/CC-AUG-JAVA_DEVELOPMENT_-Task-2-/blob/main/src/icon/abc1.jpg">
 <br>
 <br>
-
-<img width="643" alt="Screenshot" src="https://github.com/garimasharma16/CC-AUG-JAVA_DEVELOPMENT_-Task-2-/blob/main/src/icon/abc1.jpg">
+### Customer Information-
+<img width="643" alt="Screenshot" src="https://github.com/garimasharma16/CC-AUG-JAVA_DEVELOPMENT_-Task-2-/blob/main/src/icon/abc2.jpg">
 <br>
 <br>
 
-<img width="643" alt="Screenshot" src="https://github.com/garimasharma16/CC-AUG-JAVA_DEVELOPMENT_-Task-2-/blob/main/src/icon/abc1.jpg">
+<img width="643" alt="Screenshot" src="https://github.com/garimasharma16/CC-AUG-JAVA_DEVELOPMENT_-Task-2-/blob/main/src/icon/abc3.jpg">
 <br>
 <br>
 
-<img width="643" alt="Screenshot" src="https://github.com/garimasharma16/CC-AUG-JAVA_DEVELOPMENT_-Task-2-/blob/main/src/icon/abc1.jpg">
+<img width="643" alt="Screenshot" src="https://github.com/garimasharma16/CC-AUG-JAVA_DEVELOPMENT_-Task-2-/blob/main/src/icon/abc4.jpg">
+<br>
+<br>
+### Payslip Calculation-
+<img width="643" alt="Screenshot" src="https://github.com/garimasharma16/CC-AUG-JAVA_DEVELOPMENT_-Task-2-/blob/main/src/icon/abc5.jpg">
 <br>
 <br>
 
